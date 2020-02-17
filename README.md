@@ -1,7 +1,6 @@
-# ucb-seq-processing
-Data Processing Tools for uCB-seq
+# ucb-seq-processing: Data Processing Tools for uCB-seq
 
-Experiment Naming Convention
+## Experiment Naming Convention
 
 TC012A/B:       uCB-seq 10pg HEK Total RNA
 
@@ -18,5 +17,5 @@ uCBSeqPreAD:    uCB-seq Single Preadipocytes Only (stained)
 uCBSeqHEKPreAD: uCB-seq Mixed HEK and Preadipocyte Single Cells (stained)
 
 
-
-Note: The .txt file is a comprehensive list of packages that will allow one to run the Jupyter notebook attached, assuming references to local locations containing uCB-seq .rds files are rewritten. A full Packrat snapshot is in the works, but the text file contains all required information.
+## Running Jupyter Notebooks
+The .txt file contains a comprehensive list of packages that will allow one to run the Jupyter notebook attached, assuming references to locations of uCB-seq .rds files are rewritten. A full Packrat snapshot is in the works, but the text file contains all required information.
